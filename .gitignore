@@ -1,0 +1,47 @@
+## Compilación de .NET
+bin/
+obj/
+
+## Archivos de usuario de Visual Studio
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vs/
+
+## Archivos de Rider / ReSharper / JetBrains
+.idea/
+*.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+## Paquetes y dependencias
+packages/
+*.nupkg
+*.snupkg
+*.tgz
+
+## Logs y diagnósticos
+*.log
+logs/
+TestResults/
+*.coverage
+*.coveragexml
+
+## Publicaciones / artefactos de despliegue
+publish/
+artifacts/
+
+## Configuración local / secretos (si los usas)
+*.env
+*.env.*
+appsettings.*.local.json
+
+## Sistema operativo
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Herramientas / Editor
+.vscode/
+.DS_Store

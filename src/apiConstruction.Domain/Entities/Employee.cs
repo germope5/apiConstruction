@@ -1,3 +1,5 @@
+using apiConstruction.Domain.Enums;
+
 namespace apiConstruction.Domain.Entities;
 
 public class Employee

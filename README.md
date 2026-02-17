@@ -1,4 +1,5 @@
-Mi proyecto del desarrollo de una APIRESTful construida con C# y .NET
+Mi proyecto del desarrollo de una APIRESTful construida con C# y .NET.
+
 En este proyecto hemos construido una API RESTful utilizando C# y .NET. La arquitectura se ha dividido en varias capas siguiendo buenas prácticas de diseño, incluyendo Domain, Application, Infrastructure y API, lo que facilita el mantenimiento y escalabilidad del sistema.
 
 Hasta ahora, se han implementado los siguientes componentes principales:
